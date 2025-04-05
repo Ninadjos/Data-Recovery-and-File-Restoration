@@ -17,7 +17,7 @@ Project Components:
 3. User Interface:
    - Create a user-friendly interface to interact with the file recovery system.
    - Allow users to select the target storage media for recovery.
-   - Provide options to filter the search based on file types, creation date, or file name.
+   - Provide options to filter the search based on file types, creation date, or file name.s
 
 4. Data Restoration:
    - Develop a mechanism to restore recovered files to a safe location to prevent overwriting or further data loss.
@@ -43,3 +43,5 @@ Project Components:
 
 Conclusion:
 The development of a file recovery and data restoration system will not only help users retrieve lost or crashed files but also enhance their understanding of file systems, data structures, and various data recovery techniques. This mini cyber security project can serve as a valuable learning experience and potentially aid in real-world data recovery situations.
+
+
